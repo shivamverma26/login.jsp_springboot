@@ -23,3 +23,11 @@ please see application.properties files in resources folder and select a active 
 Spring Security provides it's own built-in login module to authenticate the user. It validates the user credentials and provide accessibility into the application.
 The login page rendered by the module is built-in. So, we does not require to create new jsp page. But if we want to customize the login page then how we can?
 The answer is, we can create our own jsp login page and integrate to the application. we created a custom login page and will use it to get login.
+
+### Project Overview
+
+#### Sign In Page
+<img width="800" alt="login" src="https://github.com/shivamverma26/login.jsp_springboot/assets/94590743/bba46b71-c301-4d1f-87b3-9103b6549cc5">
+
+#### Sign Up Page
+<img width="800" alt="signup" src="https://github.com/shivamverma26/login.jsp_springboot/assets/94590743/2f879a6d-3631-4e01-93c2-3ed23acdde8e">
